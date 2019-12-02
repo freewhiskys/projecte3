@@ -1,5 +1,5 @@
 #!/bin/bash
-https://github.com/freewhiskys/projecte3
+#https://github.com/freewhiskys/projecte3
 
 function usage() {
 cat <<EOF	
